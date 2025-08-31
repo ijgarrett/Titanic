@@ -67,6 +67,3 @@ Project completed from July 29 to July 30, 2025.
 - Automate the pipeline for use on new datasets
 
 ---
-
-Thank you for checking out this project. Feedback and suggestions are always welcome.
-
